@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">VolleyDemo</string>
+    <string name="action_settings">Settings</string>
+    <string name="pic_retrieve">获取图片</string>
+</resources>
